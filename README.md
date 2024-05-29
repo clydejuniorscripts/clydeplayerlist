@@ -1,7 +1,11 @@
 # Clyde's Player List
 
-Clyde's Player List is a powerful script for FiveM QBCore servers that allows administrators to view player IDs in-game and log player information to Discord. 
-This script is designed to enhance server management and ensure smooth player interactions.
+Clyde's Player List is a powerful script for FiveM QBCore servers that lets administrators and players view player IDs in-game and log player information to Discord. It enhances server management and player interactions.
+
+Players and admins can press U to view in-game player IDs, which is useful for reporting DM, VDM, modders, and other rule violations. The script includes a Discord webhook to log who presses U, helping catch fail RP abusers.
+
+Future features will allow players to view in-game names along with IDs, which can be enabled or disabled in the config.
+
 
 ## Features
 
