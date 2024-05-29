@@ -1,13 +1,3 @@
-     __       __
- _(\    |@@|
-(__/\__ \--/ __
-   \___|----|  |   __
-       \ }{ /\ )_ / _\
-       /\__/\ \__O (__\
-      (--/\--)    \__/
-      _)(  )(_
-     `---''---`
-
 # Clyde's Player List
 
 Clyde's Player List is a powerful script for FiveM QBCore servers that allows administrators to view player IDs in-game and log player information to Discord. 
@@ -34,7 +24,6 @@ This script is designed to enhance server management and ensure smooth player in
 
 Config.DiscordWebhookURL = 'https://discord.com/api/webhooks/YOUR_WEBHOOK_URL_HERE'
 
-
 ### Step 3: Add to Your FiveM Server
 
 Move the clydeplayerlist folder to your server's resource directory.
@@ -48,23 +37,6 @@ Step 4: Start Your Server
 Start your FiveM server.
 
 Press and hold the "U" key in-game to view player IDs and log information to Discord.
-
-Folder Structure: 
-
-clydeplayerlist
-│
-├── config.lua
-├── client.lua
-├── server.lua
-├── fxmanifest.lua
-├── ReadMe.md
-│
-├── html/
-│   ├── index.html
-│   ├── css/
-│   │   └── style.css
-│   └── index.js
-
 
 Support and Improvements
 If you have any questions, need support, or want to contribute improvements, join our Discord community: https://discord.gg/ZW2fGcPZZY
