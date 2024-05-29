@@ -14,6 +14,9 @@ Future features will allow players to view in-game names along with IDs, which c
 - Customizable text and background settings.
 - Easy key mapping for quick access.
 
+Preview:
+https://www.youtube.com/watch?v=lNaRRWx_TEM
+
 ## Installation
 
 ### Step 1: Download and Extract
